@@ -1,13 +1,15 @@
 # Soal Responsi 2 Pemrogaman Web 2019
 
-Assalamu'alaikum Wr.Wb.
+<p align="justify">Assalamu'alaikum Wr.Wb.</p>
 
-Berikut adalah berkas bahan responsi, Teman-teman tinggal mendownloadnya saja.
+<p align="justify">Berikut adalah berkas bahan responsi, Teman-teman tinggal mendownloadnya saja.</p>
 
-Jadi, di sini Teman-teman sudah disediakan template html sederhana untuk halaman index buku / pencarian buku. Ada 2 halaman, yaitu : View / Halaman Utama, dan Form Input. Teman-teman tinggal membuat kedua form tersebut dapat berfungsi sebagaimana mestinya seperti Web Index Buku. Untuk tabel sudah disediakan strukturnya, tinggal teman-teman buat saja dan sesuaikan dengan petunjuk yang ada di bahan responsi.
+<p align="justify">Jadi, di sini Teman-teman sudah disediakan template html sederhana untuk halaman index buku / pencarian buku. Ada 2 halaman, yaitu : View / Halaman Utama, dan Form Input. Teman-teman tinggal membuat kedua form tersebut dapat berfungsi sebagaimana mestinya seperti Web Index Buku. Untuk tabel sudah disediakan strukturnya, tinggal teman-teman buat saja dan sesuaikan dengan petunjuk yang ada di bahan responsi.</p>
 
-Responsi ini dimulai dari Hari Sabtu, 11 Januari 2019 pukul 14.00 s.d Minggu, 12 Januari pukul 06.00. Lebih cepat lebih baik, supaya Teman-teman bisa fokus belajar UAS setelah ini. Projek silakan dikumpulkan ke email rarsyansyahr@gmail.com dengan subjek "Kelas_Nama_NIM" dan nama file "Nama_NIM" dalam bentuk zip.
+<p align="justify">Responsi ini dimulai dari Hari Sabtu, 11 Januari 2019 pukul 14.00 s.d Minggu, 12 Januari pukul 06.00. Lebih cepat lebih baik, supaya Teman-teman bisa fokus belajar UAS setelah ini. Projek silakan dikumpulkan ke email rarsyansyahr@gmail.com dengan subjek "Kelas_Nama_NIM" dan nama file "Nama_NIM" dalam bentuk zip.</p>
 
-Selamat belajar dan selamat mengerjakan. Terima kasih.
+<p align="justify">Sebelumnya, kami minta ma'af yang sebesar-besarnya kepada Teman-teman apabila selama mengasisten mungkin terdapat kesalahan yang disengaja ataupun tidak disengaja, atau ada kata-kata yang kurang berkenan. Mohon dima'afkan, yaa.. :) Teman-teman juga sudah kami ma'afkan bila ada yang merasa bersalah kepada kami.. :v Kalau misal mau mengungkapkan pesan kesan, bisa Teman-teman lampirkan nanti di emailnya. Pasti akan kami baca, kok.. :D</p>
 
-Wassalamu'alaikum Wr.Wb.
+<p align="justify">Selamat belajar dan selamat mengerjakan. Terima kasih.</p>
+
+<p align="justify">Wassalamu'alaikum Wr.Wb.</p>
